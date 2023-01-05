@@ -1,0 +1,11 @@
+.btn-cls {
+    color: rgb(79, 79, 98);
+    border: 1px solid rgb(97, 114, 97);
+    border-radius: 1rem;
+    box-shadow: gray;
+}
+
+.srch-bg {
+    background-color: rgb(127, 127, 139);
+}
+
